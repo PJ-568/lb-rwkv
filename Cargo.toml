@@ -1,0 +1,12 @@
+[package]
+authors = ["PJ568 <PJ568@PJ568.eu.org>"]
+categories = ["science", "text-processing"]
+homepage = "https://github.com/PJ-568/lb-rwkv"
+repository = "https://github.com/PJ-568/lb-rwkv"
+keywords = ["deep-learning", "language", "model", "rwkv"]
+license = "Apache-2.0"
+name = "lb-rwkv"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
